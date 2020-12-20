@@ -1,0 +1,13 @@
+/twitterProject
+
+API key: xNARudgvwD99XoEduV98WhBQ0
+
+API secret key: zAnQm8NEqQ2UwvYirFtUNJjN6AQUwrCkVXsaXQ9bduT6e8XgTo
+
+Access token: 414303298-UssLMJf6SWNYKrgP7tgL0SHFzF60hnq2WHRr9VfF
+
+Access token secret: 5qdyN5yPIDnK2MmffKZw7hJtR3u8zs3uzMpyUqxrlng7E
+
+
+
+Bearer token: AAAAAAAAAAAAAAAAAAAAAGG2HgEAAAAAW6AuX7kBSG0QQAiRdpJaBgRMkeA%3DbG1o0NWf3jxvwSBAITjwouyUbIH87pgSlhUIoCnw2amYunXLXP
